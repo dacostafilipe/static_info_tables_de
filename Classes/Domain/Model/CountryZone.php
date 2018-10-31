@@ -1,5 +1,5 @@
 <?php
-namespace SJBR\StaticInfoTables\Domain\Model;
+namespace SJBR\StaticInfoTablesDe\Domain\Model;
 /***************************************************************
 *  Copyright notice
 *
